@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Deseos</string>
+    <string name="title_activity_main">Deseos</string>
+    <string name="package_name">com.dogdev.deseos</string>
+    <string name="custom_url_scheme">com.dogdev.deseos</string>
+</resources>

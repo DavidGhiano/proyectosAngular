@@ -1,0 +1,6 @@
+{
+	"appId": "com.dogdev.deseos",
+	"appName": "Deseos",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
